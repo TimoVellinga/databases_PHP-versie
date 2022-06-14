@@ -13,7 +13,7 @@ $afgekapt=floor(1000000*$rec)/1000000;
 
 echo "Het kwadraat van $waarde is $kwad.<br>
       Het omgekeerde daarvan is (afgerond:) $afgerond<br>
-      Afgekapt is de waarde veel mooier: $afgekapt<br>";
+      Afgekap is de waarde veel mooier: $afgekapt<br>";
 
 $a=0.75;
 $b=0.98;
